@@ -22,11 +22,11 @@ This is just the beginning! In the future, I hope to make this project larger an
 
 ## Terms
 
--git init  →  Включить
--git add .  →  Добавить файлы
--git commit  →  Сохранили
--git remote add  →  Куда отправлять
--git push  →  Отправили
+- git init  →  Включить
+- git add .  →  Добавить файлы
+- git commit  →  Сохранили
+- git remote add  →  Куда отправлять
+- git push  →  Отправили
 
 *We can do it!*
 
