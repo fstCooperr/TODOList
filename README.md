@@ -20,5 +20,13 @@ I plan to develop this project, add new features, improve the code, and get feed
 
 This is just the beginning! In the future, I hope to make this project larger and more useful. Thank you for stopping by, and join me on my growth journey! 💪
 
+## Terms
+
+-git init  →  Включить
+-git add .  →  Добавить файлы
+-git commit  →  Сохранили
+-git remote add  →  Куда отправлять
+-git push  →  Отправили
+
 *We can do it!*
 
